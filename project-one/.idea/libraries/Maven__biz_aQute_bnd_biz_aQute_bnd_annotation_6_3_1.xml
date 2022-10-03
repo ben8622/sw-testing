@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: biz.aQute.bnd:biz.aQute.bnd.annotation:6.3.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/biz/aQute/bnd/biz.aQute.bnd.annotation/6.3.1/biz.aQute.bnd.annotation-6.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/biz/aQute/bnd/biz.aQute.bnd.annotation/6.3.1/biz.aQute.bnd.annotation-6.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/biz/aQute/bnd/biz.aQute.bnd.annotation/6.3.1/biz.aQute.bnd.annotation-6.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
