@@ -109,7 +109,7 @@ public class ObjectMapperTest {
 
     @Test
     public void readValueBase() throws Exception{
-        ObjectMapper mapper = new ObjectMapper();
+        ObjectMapper mapper =  new ObjectMapper();
 
         String json = "{\"x\":1,\"y\":\"hello world\",\"z\":{\"a\":0,\"b\":-1}}";
 

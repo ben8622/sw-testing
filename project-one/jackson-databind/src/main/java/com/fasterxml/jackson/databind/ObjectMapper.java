@@ -4557,7 +4557,7 @@ public class ObjectMapper
      *
      * @since 2.11.2
      */
-    protected final void _writeValueAndClose(JsonGenerator g, Object value)
+    protected final void  _writeValueAndClose(JsonGenerator g, Object value)
         throws IOException
     {
         SerializationConfig cfg = getSerializationConfig();
